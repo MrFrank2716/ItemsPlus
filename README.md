@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrFrank2716)](https://github.com/MrFrank2716/github-readme-stats)
 # ItemsPlus Minecraft Resource Pack 
 
 # How to Use:
